@@ -239,7 +239,7 @@ The features available are:-
  * NotEqualTo
  * StartsWith
  * EndsWith
- * Exists
+ * WhereValueExists - Can be used to check if key exists or not
  * Near
  * WithinMiles
  * WithinKilometers
